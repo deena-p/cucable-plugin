@@ -77,9 +77,9 @@
         <maven.plugin.annotations.version>3.5.1</maven.plugin.annotations.version>
         <maven.source.plugin.version>3.0.1</maven.source.plugin.version>
 
-        <gherkin.version>5.0.0</gherkin.version>
+        <gherkin.version>5.1.0</gherkin.version>
 
-        <mockito.version>2.16.0</mockito.version>
+        <mockito.version>2.20.1</mockito.version>
         <junit.version>4.12</junit.version>
         <openpojo.version>0.8.10</openpojo.version>
     </properties>
